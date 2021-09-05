@@ -1,0 +1,6 @@
+/* ejemplo1.css   cc19114  */
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:rgb(0, 163, 238);font-size:1cm; display:ruby;}

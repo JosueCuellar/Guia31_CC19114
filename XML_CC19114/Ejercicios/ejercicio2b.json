@@ -1,0 +1,41 @@
+{
+	"pais": {
+		"moneda": {
+			"monedaPrincipal": "Dolar",
+			"modedaSecundaria": "Colón"
+		},
+		"idioma": {
+			"oficial": "Español",
+			"autoctono": "Nahuat",
+			"segundoIdioma": "No"
+		},
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "La libertad",
+				"habitantes": "700,000",
+				"altura": "545 MSNM",
+				"codTelefonoArea": "212",
+				"areaTerritorial": "Central",
+				"_id": "2",
+				"_nombre": "La libertad"
+			},
+			{
+				"cabecera": "Sonsonate",
+				"habitantes": "400,000",
+				"altura": "535 MSNM",
+				"codTelefonoArea": "12",
+				"areaTerritorial": "Occidental",
+				"_id": "3",
+				"_nombre": "Sonsonate"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

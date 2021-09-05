@@ -1,0 +1,45 @@
+fichero {
+    border:.5px solid #fff;
+    background:#e4f1fd;
+    border-radius:10px;
+    box-shadow:0px 0px 10px rgb(0, 182, 206);}
+
+ficha {
+    position: relative;
+    z-index: 1;
+    text-align: justify;
+    display: block;
+    background: #FFFFFF;
+    max-width: 500px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: left;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);}
+
+nombre {
+    color:rgb(175, 50, 50); 
+    display:inline-block;} 
+
+apellido {
+    color:rgb(2, 165, 70); 
+    display:inline;}
+
+direccion {
+    color:rgb(0, 163, 238);
+    display:block;}
+
+edad{
+    color:rgb(71, 0, 238);
+    display:block;
+
+}
+
+telefono{
+    color:rgb(238, 0, 40);
+    display:inline;
+}
+
+gmail{
+    color:rgb(255, 136, 0);
+    display:inline;
+}

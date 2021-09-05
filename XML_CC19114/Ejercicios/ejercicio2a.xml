@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio2a.css"?>
+
+<!-- ejercicio2a.xml  cc19114 -->
+<pais nombre="El Salvador">
+    <departamento id="1" nombre="San Salvador">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura>545 MSNM</altura>
+    </departamento>
+
+    <departamento id="2" nombre="La libertad">
+        <cabecera>La libertad</cabecera>
+        <habitantes>700,000</habitantes>
+        <altura>545 MSNM</altura>
+        <codTelefonoArea>212</codTelefonoArea>
+        <areaTerritorial>Central</areaTerritorial>
+    </departamento>
+</pais>

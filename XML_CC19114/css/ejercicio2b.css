@@ -1,0 +1,94 @@
+/* ejercicio2b.css   cc19114  */
+
+pais {
+    font-family: "Roboto", sans-serif;
+    background: #4CAF50;
+    width: 100%;
+    border: 0;
+    color: #000000;
+    font-size: 17px;
+    position: relative;
+    z-index: 1;
+    text-align: justify;
+    display: block;
+    max-width: 500px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+}
+departamento{
+    padding: auto;
+    display: block;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);}
+
+moneda{
+    padding: auto;
+    display: block;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);}
+
+idioma{
+    padding: auto;
+    display: block;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);}
+
+
+cabecera{
+    background-color: khaki;}
+
+habitantes{
+    background-color: lightgreen;}
+
+altura{
+    background-color:lightsalmon;}
+
+codTelefonoArea{
+    background-color: lightblue;
+
+}
+areaTerritorial{
+    background-color: lightslategray;
+}
+
+monedaPrincipal{
+    display: block;
+    color: rgb(0, 136, 182);
+}
+
+monedaSecundaria{
+color: mediumaquamarine;}
+
+oficial{
+    display: block;
+    color: rgb(230, 140, 6);
+
+}
+
+autoctono{
+    display: block;
+    color: rgb(14, 177, 231);
+
+}
+
+segundoIdioma{
+    display: block;
+    color: rgb(54, 230, 98)
+
+}
